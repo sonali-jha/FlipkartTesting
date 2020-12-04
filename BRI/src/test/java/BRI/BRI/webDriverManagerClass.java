@@ -12,7 +12,6 @@ public class webDriverManagerClass {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://easypymtz.commdel.com/login");
-
 	}
 
 }

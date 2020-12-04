@@ -38,5 +38,10 @@
     	<version>7.1.0</version>
     	<scope>test</scope>
     </dependency>
+    <dependency>
+    	<groupId>com.applitools</groupId>
+    	<artifactId>eyes-common-java3</artifactId>
+    	<version>RELEASE</version>
+    </dependency>
   </dependencies>
 </project>
