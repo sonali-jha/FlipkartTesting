@@ -11,7 +11,7 @@ public class webDriverManagerClass {
 		// TODO Auto-generated method stub
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
-		driver.get("https://easypymtz.commdel.com/login");
+		driver.get("https://www.google.com/");
 	}
 
 }
